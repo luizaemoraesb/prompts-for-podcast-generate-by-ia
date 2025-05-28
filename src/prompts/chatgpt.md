@@ -5,6 +5,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
 |  título  | Crie um título de um podcast sobre o tema de IA + química, o podcast é do nicho de tecnologia na prática e o subnicho é de prompts, o título deve ser épico e curto, e tenha uma temática de marie curie dos prompts + breaking bad no título, me liste 5 variações de títulos |
 
 | 01 - refinamento do título e subtítulo  | Crie um título de um podcast sobre o tema de IA + química, o podcast é do nicho de tecnologia na prática e o subnicho é de prompts, o título deve ser épico e curto, e tenha uma temática de marie curie dos prompts + breaking bad no título, me liste 5 variações de títulos |
